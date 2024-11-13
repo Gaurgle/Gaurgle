@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Andreas
-- 👀 I’m interested in Table Tennis.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: LarsNilsAndreas@Gmail.com
 - 😄 Pronouns: He/Him
