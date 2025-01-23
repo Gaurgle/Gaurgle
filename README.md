@@ -1,5 +1,5 @@
 - 🌱 Hi, I’m Andreas
-- ☘️ I’m currently learning Java
+- ☘️ I’m currently learning to program with Java.
 - 🍀 How to reach me: LarsNilsAndreas@Gmail.com
 - 🌴 Pronouns: He/Him
 
