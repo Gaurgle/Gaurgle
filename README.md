@@ -1,6 +1,6 @@
 - 🌱 Hi, I’m Andreas
 - ☘️ I’m currently learning to program with Java.
-- 🍀 How to reach me: LarsNilsAndreas@Gmail.com
+- 🍀 How to reach me: LarsNilsAndreas@pm.me
 
 
 <!---
