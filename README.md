@@ -1,5 +1,5 @@
 - 🌱 Hi, I’m Andreas
-- ☘️ I’m currently learning to program with Java.
+- ☘️ Intern at Sigma Connectivity Stockholm
 - 🍀 How to reach me: LarsNilsAndreas@pm.me
 
 
