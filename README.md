@@ -12,6 +12,7 @@ I like building things across the full stack and I'm always looking to learn som
 
 ### Selected work
 
+- **[Portfolio](https://andreasroos.vercel.app/)** - Portfolio website built with Astro, React, Tailwind, Spring Boot, PostGres & Docker (TypeScript, Kotlin)
 - **[web-shop-aaa](https://github.com/cfrank3N/web-shop-aaa)** — Full-stack webshop with JWT auth and role-based access control (Spring Boot, Spring Security, Vite)
 - **[DevOps Portfolio](https://github.com/Gaurgle/DevOps_Portfolio)** — Portfolio site built with a DevOps workflow (TypeScript)
 - **[YachtStrike](https://github.com/Gaurgle/YachtStrikeVGAndreasRoos)** — Yacht dice game demonstrating design patterns (Java)
@@ -19,5 +20,5 @@ I like building things across the full stack and I'm always looking to learn som
 
 ### Contact
 
-[LarsNilsAndreas@pm.me](mailto:LarsNilsAndreas@pm.me)  
-[Portfolio](https://andreasroos.vercel.app/)
+- **[LarsNilsAndreas@pm.me](mailto:LarsNilsAndreas@pm.me)**
+
