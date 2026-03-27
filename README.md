@@ -6,9 +6,9 @@ I like building things across the full stack and I'm always looking to learn som
 
 ### What I work with
 
-`Kotlin` `Java` `TypeScript` `JavaScript` `SQL` ·  
-`Android` `Jetpack Compose` `Spring Boot` `Ktor` `PostgreSQL` `Vite` ·  
-`Git` `BLE`
+`Kotlin` `Java` `TypeScript` `JavaScript` `Lua` `SQL` ·  
+`Android` `Jetpack Compose` `Spring Boot` `Ktor` `PostgreSQL` `Vite` `Astro` ·  
+`Git` `BLE` `LE Audio` `CI/CD`
 
 ### Selected work
 
