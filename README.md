@@ -20,4 +20,4 @@ I like building things across the full stack and I'm always looking to learn som
 ### Contact
 
 [LarsNilsAndreas@pm.me](mailto:LarsNilsAndreas@pm.me)
-[portfolio](https://andreasroos.vercel.app/)
+[Portfolio](https://andreasroos.vercel.app/)
