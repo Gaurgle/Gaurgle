@@ -6,8 +6,8 @@ I like building things across the full stack and I'm always looking to learn som
 
 ### What I work with
 
-`Kotlin` `Java` `TypeScript` `JavaScript` `SQL` ·
-`Android` `Jetpack Compose` `Spring Boot` `Ktor` `PostgreSQL` `Vite` ·
+`Kotlin` `Java` `TypeScript` `JavaScript` `SQL` ·  
+`Android` `Jetpack Compose` `Spring Boot` `Ktor` `PostgreSQL` `Vite` ·  
 `Git` `BLE`
 
 ### Selected work
@@ -20,3 +20,4 @@ I like building things across the full stack and I'm always looking to learn som
 ### Contact
 
 [LarsNilsAndreas@pm.me](mailto:LarsNilsAndreas@pm.me)
+[portfolio](https://andreasroos.vercel.app/)
