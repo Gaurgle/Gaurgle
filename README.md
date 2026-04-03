@@ -10,10 +10,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-333?logo=postgresql&logoColor=4169E1)](#)
 
-- [![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
+- [![Rust](https://img.shields.io/badge/Rust-333?logo=rust&logoColor=CE422B)](https://www.rust-lang.org/)
+[![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Bash](https://img.shields.io/badge/Bash-333?logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 
 - [![Svelte](https://img.shields.io/badge/Svelte-333?logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
 [![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
@@ -34,6 +36,8 @@ Building a full-stack BLE/LE Audio testing platform at Sigma — an **Android** 
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**notez**](https://github.com/Gaurgle/notez-cli) | Rust, ratatui | Local-first CLI note-taking tool with interactive todos, subtasks, and symlink mirroring |
+| [**repoz**](https://github.com/Gaurgle/repoz) | Bash, GitHub API | See which repos need pulling, pushing, or have uncommitted work — one command |
 | [**Portfolio**](https://github.com/Gaurgle/DevOps_Portfolio) | Astro, React, Tailwind, Spring Boot | Personal portfolio site — [live](https://andreasroos.vercel.app/) |
 | [**web-shop-aaa**](https://github.com/cfrank3N/web-shop-aaa) | Spring Boot, Spring Security, Vite | Full-stack webshop with JWT auth & RBAC |
 | [**YachtStrike**](https://github.com/Gaurgle/YachtStrikeVGAndreasRoos) | Java | Yacht dice game with design patterns |
