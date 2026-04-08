@@ -42,6 +42,10 @@ Building a full-stack BLE/LE Audio testing platform at Sigma — an **Android** 
 | [**YachtStrike**](https://github.com/Gaurgle/YachtStrikeVGAndreasRoos) | Java | Yacht dice game with design patterns |
 | [**booking-program**](https://github.com/cfrank3N/booking-program) | Java, Spring Boot | Room booking system |
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurgle&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurgle&layout=donut&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📬 Contact
