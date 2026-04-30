@@ -2,7 +2,7 @@
 
 **Software Development Intern at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm) in Stockholm**
 
-*Building a Bluetooth Low Energy testing platform — from Android app to backend to dashboard.*
+Building a Bluetooth Low Energy testing platform — from Android app to backend to dashboard.
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
