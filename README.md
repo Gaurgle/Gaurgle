@@ -9,7 +9,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
 
-- [![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
+[![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-333?logo=jetpackcompose&logoColor=4285F4)](https://developer.android.com/jetpack/compose)
 [![BLE](https://img.shields.io/badge/Bluetooth_LE-333?logo=bluetooth&logoColor=0082FC)](#)
 [![LE Audio](https://img.shields.io/badge/LE_Audio-333?logo=bluetooth&logoColor=0082FC)](#)
