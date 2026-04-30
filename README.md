@@ -45,7 +45,6 @@ Building a full-stack BLE/LE Audio testing platform at Sigma — an **Android** 
 ---
 
 ### 📬 Contact
+[![Email](https://img.shields.io/badge/Email-LarsNilsAndreas@pm.me-333?logo=protonmail&logoColor=8B89CC)](mailto:LarsNilsAndreas@pm.me)
 
-- [![Email](https://img.shields.io/badge/Email-LarsNilsAndreas@pm.me-333?logo=protonmail&logoColor=8B89CC)](mailto:LarsNilsAndreas@pm.me)
-
-- [![Website](https://img.shields.io/badge/Website-andreasroos.vercel.app-333?logo=vercel&logoColor=white)](https://andreasroos.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-andreasroos.vercel.app-333?logo=vercel&logoColor=white)](https://andreasroos.vercel.app/)
