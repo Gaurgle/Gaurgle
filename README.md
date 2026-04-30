@@ -4,7 +4,7 @@
 
 *Building a Bluetooth Low Energy testing platform — from Android app to backend to dashboard.*
 
-- [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
