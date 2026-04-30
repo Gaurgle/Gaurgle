@@ -20,7 +20,7 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Svelte](https://img.shields.io/badge/Svelte-333?logo=sveltekit&logoColor=FF3E00)](https://svelte.dev/)
+[![Svelte](https://img.shields.io/badge/Svelte-333?logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
 [![Astro](https://img.shields.io/badge/Astro-333?logo=astro&logoColor=FF5D01)](https://astro.build/)
 
 ---
