@@ -25,13 +25,13 @@ Building a Bluetooth Low Energy testing platform, from Android app to backend to
 
 ---
 
-### 🔭 Right now
+### Right now
 
 Building a full-stack BLE/LE Audio testing platform at Sigma. An **Android** test runner, **Ktor + PostgreSQL** backend, and **SvelteKit** dashboard for managing test sessions, scripts, and device data.
 
 ---
 
-### 📂 Projects
+### Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -44,7 +44,7 @@ Building a full-stack BLE/LE Audio testing platform at Sigma. An **Android** tes
 
 ---
 
-### 📬 Contact
+### Contact
 [![Email](https://img.shields.io/badge/Email-LarsNilsAndreas@pm.me-333?logo=protonmail&logoColor=8B89CC)](mailto:LarsNilsAndreas@pm.me)
 
 [![Website](https://img.shields.io/badge/Website-andreasroos.vercel.app-333?logo=vercel&logoColor=white)](https://andreasroos.vercel.app/)
