@@ -2,7 +2,7 @@
 
 **Software Development Intern at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm) in Stockholm**
 
-Building a Bluetooth Low Energy testing platform — from Android app to backend to dashboard.
+Building a Bluetooth Low Energy testing platform, from Android app to backend to dashboard.
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
@@ -27,7 +27,7 @@ Building a Bluetooth Low Energy testing platform — from Android app to backend
 
 ### 🔭 Right now
 
-Building a full-stack BLE/LE Audio testing platform at Sigma — an **Android** test runner, **Ktor + PostgreSQL** backend, and **SvelteKit** dashboard for managing test sessions, scripts, and device data.
+Building a full-stack BLE/LE Audio testing platform at Sigma. An **Android** test runner, **Ktor + PostgreSQL** backend, and **SvelteKit** dashboard for managing test sessions, scripts, and device data.
 
 ---
 
@@ -38,8 +38,8 @@ Building a full-stack BLE/LE Audio testing platform at Sigma — an **Android** 
 | [**spaze**](https://github.com/Gaurgle/spaze) | Rust, ratatui, SQLite | **Pre-alpha, in active development.** Terminal-first, self-hostable team collaboration tool with GitHub OAuth and inline `#note`/`#todo` capture |
 | [**noiz**](https://github.com/Gaurgle/noiz) | Rust, ratatui | Terminal noise generator with binaural brainwave presets and rain overlay |
 | [**notez**](https://github.com/Gaurgle/notez-cli) | Rust, ratatui | Local-first CLI note-taking tool with interactive todos, subtasks, and symlink mirroring |
-| [**repoz**](https://github.com/Gaurgle/repoz) | Bash, GitHub API | See which repos need pulling, pushing, or have uncommitted work — one command |
-| [**Portfolio**](https://github.com/Gaurgle/DevOps_Portfolio) | Astro, React, Tailwind, Spring Boot | Personal portfolio site — [live](https://andreasroos.vercel.app/) |
+| [**repoz**](https://github.com/Gaurgle/repoz) | Bash, GitHub API | See which repos need pulling, pushing, or have uncommitted work in one command |
+| [**Portfolio**](https://github.com/Gaurgle/DevOps_Portfolio) | Astro, React, Tailwind, Spring Boot | Personal portfolio site, [live here](https://andreasroos.vercel.app/) |
 | [**booking-program**](https://github.com/cfrank3N/booking-program) | Java, Spring Boot | Room booking system |
 
 ---
