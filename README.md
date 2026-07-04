@@ -2,7 +2,7 @@
 
 **Backend & Android developer in Stockholm**
 
-Kotlin and Rust, with a soft spot for Bluetooth LE and terminal tools. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
+Kotlin and Java by trade, with a soft spot for Bluetooth LE. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
@@ -28,9 +28,9 @@ Kotlin and Rust, with a soft spot for Bluetooth LE and terminal tools. More at [
 
 ### Right now
 
-Mostly Rust: terminal tools, notez2, and Auracast broadcast audio.
+Recently at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): a full-stack BLE/LE Audio testing platform (**Android** test runner, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard). That work, like most of my Kotlin/Java, lives in private repos.
 
-Previously at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): a full-stack BLE/LE Audio testing platform (**Android** test runner, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard).
+What's public here is mostly side projects: terminal tools I build in Rust for my own daily use.
 
 ---
 
