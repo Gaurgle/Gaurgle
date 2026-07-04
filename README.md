@@ -2,7 +2,8 @@
 
 **Backend & Android developer in Stockholm**
 
-Kotlin and Java by trade, with a soft spot for Bluetooth LE. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
+Kotlin and Java by trade, with a soft spot for Bluetooth LE & LE Audio. 
+More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
@@ -27,10 +28,11 @@ Kotlin and Java by trade, with a soft spot for Bluetooth LE. More at [andreasroo
 ---
 
 ### Right now
-
-Recently at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): a full-stack BLE/LE Audio testing platform (**Android** test runner, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard). That work, like most of my Kotlin/Java, lives in private repos.
-
-What's public here is mostly side projects: terminal tools I build in Rust for my own daily use.
+-Working on LE Audio & BLE products; an **Android**-based Auracast field-testing suite for **LE Audio** deploymentsl Learning C and Zephyr on the way. Private for now
+-Automating file logistics at IMRSV Music: Kotlin backend, dashboard, remote control.
+-An audio watermarking engine in C++. Inaudible payloads embedded under a psychoacoustic masking model, encrypted.
+-Recently intern at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm): a BLE/LE Audio testing platform, centered around an **Android** test runner app, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard.
+-What's public here is mostly side projects: terminal tools I build in Rust for my own daily use.
 
 ---
 
