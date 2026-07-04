@@ -1,11 +1,12 @@
 # Hey, I'm Andreas 👋
 
-**Software Development Intern at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm) in Stockholm**
+**Backend & Android developer in Stockholm**
 
-Building a Bluetooth Low Energy testing platform, from Android app to backend to dashboard.
+Kotlin and Rust, with a soft spot for Bluetooth LE and terminal tools. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
+[![Rust](https://img.shields.io/badge/Rust-333?logo=rust&logoColor=DEA584)](https://www.rust-lang.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
 [![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
 
@@ -27,7 +28,9 @@ Building a Bluetooth Low Energy testing platform, from Android app to backend to
 
 ### Right now
 
-Building a full-stack BLE/LE Audio testing platform at Sigma. An **Android** test runner, **Ktor + PostgreSQL** backend, and **SvelteKit** dashboard for managing test sessions, scripts, and device data.
+Mostly Rust: terminal tools, notez2, and Auracast broadcast audio.
+
+Previously at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): a full-stack BLE/LE Audio testing platform (**Android** test runner, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard).
 
 ---
 
@@ -35,9 +38,10 @@ Building a full-stack BLE/LE Audio testing platform at Sigma. An **Android** tes
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**spaze**](https://github.com/Gaurgle/spaze) | Rust, ratatui, SQLite | **Pre-alpha, in active development.** Terminal-first, self-hostable team collaboration tool with GitHub OAuth and inline `#note`/`#todo` capture |
+| [**notez2**](https://github.com/Gaurgle/notez2) | Rust, Tauri, Svelte | **In active development.** Local-first notes and todos, CLI/TUI + desktop app, synced through git. Successor to notez-cli |
 | [**noiz**](https://github.com/Gaurgle/noiz) | Rust, ratatui | Terminal noise generator with binaural brainwave presets and rain overlay |
 | [**notez**](https://github.com/Gaurgle/notez-cli) | Rust, ratatui | Local-first CLI note-taking tool with interactive todos, subtasks, and symlink mirroring |
+| [**spaze**](https://github.com/Gaurgle/spaze) | Rust, ratatui, SQLite | **Pre-alpha.** Terminal-first, self-hostable team collaboration tool with GitHub OAuth and inline `#note`/`#todo` capture |
 | [**repoz**](https://github.com/Gaurgle/repoz) | Bash, GitHub API | See which repos need pulling, pushing, or have uncommitted work in one command |
 | [**Portfolio**](https://github.com/Gaurgle/DevOps_Portfolio) | Astro, React, Tailwind, Spring Boot | Personal portfolio site, [live here](https://andreasroos.vercel.app/) |
 | [**booking-program**](https://github.com/cfrank3N/booking-program) | Java, Spring Boot | Room booking system |
