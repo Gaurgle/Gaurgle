@@ -29,9 +29,13 @@ More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 ### Right now
 -Working on LE Audio & BLE products; an **Android**-based Auracast field-testing suite for **LE Audio** deploymentsl Learning C and Zephyr on the way. Private for now
+
 -Automating file logistics at IMRSV Music: Kotlin backend, dashboard, remote control.
+
 -An audio watermarking engine in C++. Inaudible payloads embedded under a psychoacoustic masking model, encrypted.
+
 -Recently intern at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm): a BLE/LE Audio testing platform, centered around an **Android** test runner app, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard.
+
 -What's public here is mostly side projects: terminal tools I build in Rust for my own daily use.
 
 ---
