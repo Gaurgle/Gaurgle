@@ -34,8 +34,7 @@ Terminal tools I build for myself and use daily. All Rust, all open.
 
 | Tool | Description |
 |------|-------------|
-| [**notez2**](https://github.com/Gaurgle/notez2) | Local-first notes and todos, CLI/TUI + desktop app, synced through git. Successor to notez-cli. **In active development** |
-| [**notez**](https://github.com/Gaurgle/notez-cli) | Local-first CLI note-taking with interactive todos, subtasks, and symlink mirroring |
+| [**notez2**](https://github.com/Gaurgle/notez2) | Local-first notes and todos, CLI/TUI + desktop app, synced through git. **In active development**, succeeding the finished [notez-cli](https://github.com/Gaurgle/notez-cli) |
 | [**noiz**](https://github.com/Gaurgle/noiz) | Noise generator with binaural brainwave presets and rain overlay |
 | [**repoz**](https://github.com/Gaurgle/repoz) | See which repos need pulling, pushing, or have uncommitted work in one command (bash) |
 | [**spaze**](https://github.com/Gaurgle/spaze) | Terminal-first, self-hostable team collaboration with GitHub OAuth and inline `#note`/`#todo` capture. **Pre-alpha** |
