@@ -16,7 +16,6 @@ Kotlin and Java by trade, with a soft spot for Bluetooth LE & LE Audio. More at 
 
 [![BLE](https://img.shields.io/badge/Bluetooth_LE-333?logo=bluetooth&logoColor=0082FC)](#)
 [![LE Audio](https://img.shields.io/badge/LE_Audio-333?logo=bluetooth&logoColor=0082FC)](#)
-[![Svelte](https://img.shields.io/badge/Svelte-333?logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
 
 ---
 
