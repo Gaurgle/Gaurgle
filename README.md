@@ -2,7 +2,7 @@
 
 **Backend & Android developer in Stockholm**
 
-Kotlin and Java by trade, with a soft spot for Bluetooth LE. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
+Kotlin and Java by trade, with a soft spot for Bluetooth LE & LE Audio. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
@@ -18,14 +18,14 @@ Kotlin and Java by trade, with a soft spot for Bluetooth LE. More at [andreasroo
 
 ---
 
-### Work
+### Right now
 
 Kotlin, Android, and C++ - mostly in private repos:
 
-- **BLE/LE Audio testing platform** at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): Android test runner, Ktor + PostgreSQL backend, SvelteKit dashboard
-- **Auracast/LE Audio test tooling** for Android, in progress
-- **File gathering and delivery system** for IMRSV Music: Kotlin backend, dashboard, remote control
-- **Audio watermarking engine** in C++: psychoacoustic masking, QIM embedding, AES-256
+- **LE Audio & BLE products**: an **Android**-based Auracast field-testing suite for LE Audio deployments. Learning C and Zephyr on the way
+- **File logistics at IMRSV Music**: Kotlin backend, dashboard, remote control
+- **Audio watermarking engine in C++**: inaudible payloads embedded under a psychoacoustic masking model, encrypted
+- Recently intern at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm): a BLE/LE Audio testing platform, centered around an **Android** test runner app, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard
 
 ---
 
