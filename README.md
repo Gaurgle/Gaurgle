@@ -35,14 +35,23 @@ Bluetooth LE and LE Audio are still particular interests. I'm designing an **Aur
 
 ### The z-tools
 
-Open-source tools I build for my own workflow, with coding agents doing much of the implementation.
+Tools I build for my own workflow, from notes and repo management to small references and focus aids. Coding agents do much of the implementation. Some are public; others are still private.
 
-| Tool | Description |
-|------|-------------|
-| [**notez**](https://github.com/Gaurgle/notez) | Local-first notes and todos, CLI/TUI + desktop app, synced through git. **In active development**, succeeding the archived [notez-cli](https://github.com/Gaurgle/notez-cli) |
-| [**noiz**](https://github.com/Gaurgle/noiz) | Noise generator with binaural brainwave presets and rain overlay |
-| [**repoz**](https://github.com/Gaurgle/repoz) | See which repos need pulling, pushing, or have uncommitted work in one command (bash) |
-| [**spaze**](https://github.com/Gaurgle/spaze) | Terminal-first, self-hostable team collaboration with GitHub OAuth and inline `#note`/`#todo` capture. **Pre-alpha** |
+| Tool | What it does | Repository |
+|------|--------------|------------|
+| [**notez**](https://github.com/Gaurgle/notez) | Local-first notes and todos, with a CLI/TUI and git sync. Includes the **todoz** board. | Public |
+| [**pinz**](https://github.com/Gaurgle/pinz) | A pannable, zoomable board of sticky notes in the terminal. **Beta.** | Public |
+| [**repoz**](https://github.com/Gaurgle/repoz) | A quick overview of repositories with incoming, outgoing or uncommitted changes. | Public |
+| **fleetz** | A live multi-repo dashboard for branches, worktrees, pull requests and CI status. | Private |
+| **epoz** | A desktop dashboard bringing notes, todos and GitHub activity together. **Early development.** | Private |
+| **syncz** | A tool for detecting and explaining configuration changes across machines. **Design stage.** | Private |
+| [**codez**](https://github.com/Gaurgle/codez) | Searchable reference for status and error codes, from HTTP and shell exits to Bluetooth. | Public |
+| **stdz** | Searchable Kotlin standard-library reference and Kotlin/Android study notes. | Private |
+| [**httpz**](https://github.com/Gaurgle/httpz) | A small, colour-coded HTTP status reference for the terminal. | Public |
+| [**clockz**](https://github.com/Gaurgle/clockz) | Terminal clock, countdown timer and stopwatch. | Public |
+| [**noiz**](https://github.com/Gaurgle/noiz) | Focus noise generator with binaural presets and a rain overlay. | Public |
+| **zalary** | Swedish salary calculator for comparing employment and invoicing through a company. | Private |
+| [**spaze**](https://github.com/Gaurgle/spaze) | Terminal-first team collaboration, with self-hosting as the goal. **Pre-alpha.** | Public |
 
 ---
 
