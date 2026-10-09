@@ -23,13 +23,15 @@ More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 ### Right now
 
-At **IMRSV Music**, I build internal Kotlin tools and look after the systems around them: automation, deployment, backups and infrastructure improvements. I also work part-time as a software developer at **Code Boss**, on backend and frontend features in client projects.
+At **IMRSV Music**, I build internal Kotlin tools and look after the systems around them: automation, deployment, backups and infrastructure improvements. 
+I also work part-time as a software developer at **Code Boss**, on backend and frontend features in client projects.
 
-I use coding agents regularly and build tooling around how I work with them: clear specifications, automated checks and approval points. I'm interested in what makes that useful in day-to-day development, including how someone else can pick up the work.
+I use coding agents regularly and build tooling around how I work with them: clear specifications, automated checks and approval points. 
+I'm interested in what makes that useful in day-to-day development, including how someone else can pick up the work.
 
 I graduated from **Nackademin's Java Developer programme** in June 2026. During my internship at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm), I worked on a BLE testing platform with an **Android** client, **Ktor + PostgreSQL** backend and **SvelteKit** dashboard.
 
-Bluetooth LE and LE Audio are still particular interests. I'm designing an **Auracast field-testing suite**, and developing **Audio Watermark**, an audio watermarking tool built with AI agents from my own threat model, signal design and robustness requirements.
+Bluetooth LE and LE Audio are still particular interests. I'm designing an **Auracast field-testing suite**, and developing **Audio Watermark**, an audio watermarking tool built using TDD/ATDD from my own threat model, signal design and robustness requirements.
 
 ---
 
@@ -42,16 +44,15 @@ Tools I build for my own workflow, from notes and repo management to small refer
 | [**notez**](https://github.com/Gaurgle/notez) | Local-first notes and todos, with a CLI/TUI and git sync. Includes the **todoz** board. | Public |
 | [**pinz**](https://github.com/Gaurgle/pinz) | A pannable, zoomable board of sticky notes in the terminal. **Beta.** | Public |
 | [**repoz**](https://github.com/Gaurgle/repoz) | A quick overview of repositories with incoming, outgoing or uncommitted changes. | Public |
-| **fleetz** | A live multi-repo dashboard for branches, worktrees, pull requests and CI status. | Private |
-| **epoz** | A desktop dashboard bringing notes, todos and GitHub activity together. **Early development.** | Private |
+| **fleetz** | A live multi-repo dashboard for branches, worktrees, pull requests and CI status. **Closed Beta** | Private |
 | **syncz** | A tool for detecting and explaining configuration changes across machines. **Design stage.** | Private |
 | [**codez**](https://github.com/Gaurgle/codez) | Searchable reference for status and error codes, from HTTP and shell exits to Bluetooth. | Public |
-| **stdz** | Searchable Kotlin standard-library reference and Kotlin/Android study notes. | Private |
 | [**httpz**](https://github.com/Gaurgle/httpz) | A small, colour-coded HTTP status reference for the terminal. | Public |
 | [**clockz**](https://github.com/Gaurgle/clockz) | Terminal clock, countdown timer and stopwatch. | Public |
 | [**noiz**](https://github.com/Gaurgle/noiz) | Focus noise generator with binaural presets and a rain overlay. | Public |
 | **zalary** | Swedish salary calculator for comparing employment and invoicing through a company. | Private |
 | [**spaze**](https://github.com/Gaurgle/spaze) | Terminal-first team collaboration, with self-hosting as the goal. **Pre-alpha.** | Public |
+| **epoz** | A desktop dashboard bringing notes, todos and GitHub activity together. **Early development.** | Private |
 
 ---
 
