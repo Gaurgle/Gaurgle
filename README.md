@@ -1,8 +1,10 @@
 # Hey, I'm Andreas 👋
 
-**Backend & Android developer in Stockholm**
+**Software developer in Stockholm**
 
-Kotlin and Java by trade, with a soft spot for Bluetooth LE & LE Audio. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
+I build software that makes everyday work easier, from backend services and Android apps to internal tools and automation. Kotlin and Java are my main languages, and I enjoy getting things running as much as building them.
+
+More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
@@ -21,15 +23,19 @@ Kotlin and Java by trade, with a soft spot for Bluetooth LE & LE Audio. More at 
 
 ### Right now
 
-Building an **Android**-based Auracast field-testing suite for LE Audio deployments (learning C and Zephyr on the way), and a **Kotlin** backend with dashboard and remote control running file logistics at IMRSV Music. Also an audio watermarking engine in C++: inaudible payloads embedded under a psychoacoustic masking model, encrypted. Mostly private repos.
+At **IMRSV Music**, I build internal Kotlin tools and look after the systems around them: automation, deployment, backups and infrastructure improvements. I also work part-time as a software developer at **Code Boss**, on backend and frontend features in client projects.
 
-Recently intern at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm): a BLE/LE Audio testing platform, centered around an **Android** test runner app, **Ktor + PostgreSQL** backend, **SvelteKit** dashboard.
+I use coding agents regularly and build tooling around how I work with them: clear specifications, automated checks and approval points. I'm interested in what makes that useful in day-to-day development, including how someone else can pick up the work.
+
+I graduated from **Nackademin's Java Developer programme** in June 2026. During my internship at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm), I worked on a BLE testing platform with an **Android** client, **Ktor + PostgreSQL** backend and **SvelteKit** dashboard.
+
+Bluetooth LE and LE Audio are still particular interests. I'm designing an **Auracast field-testing suite**, and developing **Audio Watermark**, an audio watermarking tool built with AI agents from my own threat model, signal design and robustness requirements.
 
 ---
 
 ### The z-tools
 
-Terminal tools I build for myself and use daily. All Rust, all open.
+Open-source tools I build for my own workflow, with coding agents doing much of the implementation.
 
 | Tool | Description |
 |------|-------------|
