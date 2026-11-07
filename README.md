@@ -12,10 +12,8 @@ Now at **IMRSV Music**, building internal Kotlin tools and the infrastructure ar
 ![Ktor](https://img.shields.io/badge/-Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bluetooth LE](https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![LE Audio](https://img.shields.io/badge/-LE_Audio-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Start Here
