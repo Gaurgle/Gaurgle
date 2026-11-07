@@ -65,15 +65,6 @@ Everything ends in a z. 🔒 means private for now: ask if you're curious.
 
 - 🌌 **[portfolio-site](https://github.com/Gaurgle/portfolio-site)** - My portfolio: a WebGL2 sky over Astro, with a containerised Spring Boot + PostgreSQL API alongside
 
-## What I'm Doing
-
-- **Building with agents** - Agents write much of the code. I write the spec, the acceptance tests and the approval gates
-- **Tests as the contract** - TDD and ATDD, coverage that only ratchets up, a red build never ships
-- **Scratching my own itches** - Every z-tool started as friction in my own day
-- **Going deeper on LE Audio** - Auracast, LC3 and the nRF5340 Audio DK
-
-Graduated from **Nackademin's Java Developer programme** in June 2026.
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/-LarsNilsAndreas@pm.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:LarsNilsAndreas@pm.me)
