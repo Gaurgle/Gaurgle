@@ -1,61 +1,93 @@
 # Hey, I'm Andreas 👋
 
-**Software developer in Stockholm**
+📍 **Stockholm** | ☕ **Kotlin & Java by trade** | 🦀 **Rust after hours** | 📡 **Bluetooth LE nerd**
 
-I build software that makes everyday work easier, from backend services and Android apps to internal tools and automation. Kotlin and Java are my main languages, and I enjoy getting things running as much as building them.
+Now at **IMRSV Music**, building internal Kotlin tools and the infrastructure around them. Part-time at **Code Boss** on client projects. More at [andreasroos.vercel.app](https://andreasroos.vercel.app/).
 
-More at [andreasroos.vercel.app](https://andreasroos.vercel.app/)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Ktor](https://img.shields.io/badge/-Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/-Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LE Audio](https://img.shields.io/badge/-LE_Audio-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=3DDC84)](https://developer.android.com/)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-333?logo=jetpackcompose&logoColor=4285F4)](https://developer.android.com/jetpack/compose)
-[![Java](https://img.shields.io/badge/Java-333?logo=coffeescript&logoColor=ED8B00)](https://www.java.com/)
+## Start Here
 
-[![Ktor](https://img.shields.io/badge/Ktor-333?logo=ktor&logoColor=087CFA)](https://ktor.io/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-333?logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=2496ED)](https://www.docker.com/)
+- 📌 **[pinz](https://github.com/Gaurgle/pinz)** - Post-it notes on a pannable, zoomable board. In your terminal. `brew install Gaurgle/tap/pinz`
+- 📝 **[notez](https://github.com/Gaurgle/notez)** - Local-first notes and todos with a CLI, a TUI and git sync
+- 🔭 **[repoz](https://github.com/Gaurgle/repoz)** - See what changed across your repos since you last sat down
+- 🌧️ **[noiz](https://github.com/Gaurgle/noiz)** - Focus noise with binaural presets and a rain overlay
 
-[![BLE](https://img.shields.io/badge/Bluetooth_LE-333?logo=bluetooth&logoColor=0082FC)](#)
-[![LE Audio](https://img.shields.io/badge/LE_Audio-333?logo=bluetooth&logoColor=0082FC)](#)
+## Current Projects
 
----
+Everything ends in a z. 🔒 means private for now: ask if you're curious.
 
-### Right now
+### Repos, Agents & Workflow
 
-At **IMRSV Music**, I build internal Kotlin tools and look after the systems around them: automation, deployment, backups and infrastructure improvements. 
-I also work part-time as a software developer at **Code Boss**, on backend and frontend features in client projects.
+- 🛰️ **fleetz** 🔒 - The repo dashboard you leave open: branches, worktrees, PRs and CI across every repo. `closed beta`
+- 🔭 **[repoz](https://github.com/Gaurgle/repoz)** - fleetz's one-shot sibling: what moved, where, since you last looked
+- 👀 **glanze** 🔒 - macOS menu bar app that keeps your running coding agents in the corner of your eye. `pre-alpha`
+- 🔁 **syncz** 🔒 - Change your setup on one machine, understand what it means on the next. `in progress`
+- 🏃 **Relay** 🔒 - How I run coding agents on tickets: a lead, workers and reviewers, with a handoff file as the baton
+- 🧩 **epoz** 🔒 - One desktop dashboard, built from slices of all the other tools. `early`
+- 🍺 **[homebrew-tap](https://github.com/Gaurgle/homebrew-tap)** - Brew formulae, published by each tool's own release workflow
 
-I use coding agents regularly and build tooling around how I work with them: clear specifications, automated checks and approval points. 
-I'm interested in what makes that useful in day-to-day development, including how someone else can pick up the work.
+### Terminal References
 
-I graduated from **Nackademin's Java Developer programme** in June 2026. During my internship at [Sigma Connectivity Stockholm](https://www.sigmaconnectivity.com/scstockholm), I worked on a BLE testing platform with an **Android** client, **Ktor + PostgreSQL** backend and **SvelteKit** dashboard.
+- 🔎 **[codez](https://github.com/Gaurgle/codez)** - Status and error codes, from HTTP and shell exits to Bluetooth
+- 🚦 **[httpz](https://github.com/Gaurgle/httpz)** - HTTP status codes, colour-coded, in one command
+- 📚 **stdz** 🔒 - Kotlin standard library at your fingertips, plus the fundamentals worth knowing cold
+- ⌨️ **commandz** 🔒 - tmux and CLI commands and flags, searchable
 
-Bluetooth LE and LE Audio are still particular interests. I'm designing an **Auracast field-testing suite**, and developing **Audio Watermark**, an audio watermarking tool built using TDD/ATDD from my own threat model, signal design and robustness requirements.
+### Notes, Focus & Everyday
 
----
+- 📝 **[notez](https://github.com/Gaurgle/notez)** - Notes and todos that follow you between machines. Includes the **todoz** board
+- 📌 **[pinz](https://github.com/Gaurgle/pinz)** - A spatial bulletin board for the terminal. `beta`
+- 🌧️ **[noiz](https://github.com/Gaurgle/noiz)** - Pink noise, binaural beats and rain, tuned for focus
+- 🫧 **noiz mobile** 🔒 - noiz as a single blob you touch. Rust DSP core, Compose Multiplatform UI
+- ⏱️ **[clockz](https://github.com/Gaurgle/clockz)** - Clock, countdown and stopwatch for the terminal
+- 💰 **zalary** 🔒 - Swedish salary calculator: employment vs invoicing through your own company, real 2026 tax tables
+- 📖 **bookz** 🔒 - An offline reading journal for the books you're on and the ones up next
+- 💬 **[spaze](https://github.com/Gaurgle/spaze)** - Terminal-first team collaboration, self-hostable. `pre-alpha`
 
-### The z-tools
+### Bluetooth LE & Audio
 
-Tools I build for my own workflow, from notes and repo management to small references and focus aids. Coding agents do much of the implementation. Some are public; others are still private.
+- 📡 **airwavez** 🔒 - LE Audio and Auracast tooling on one shared stack, starting with a field-testing kit. Zephyr, Rust and Kotlin
+- 🔊 **Audio Watermark** 🔒 - Inaudible, key-protected watermarks that survive real-world processing. C++, built test-first from my own threat model
+- 🧪 **BLE testing platform** 🔒 - Internship at [Sigma Connectivity](https://www.sigmaconnectivity.com/scstockholm): Android client, Ktor + PostgreSQL backend, SvelteKit dashboard
 
-| Tool | What it does | Repository |
-|------|--------------|------------|
-| [**notez**](https://github.com/Gaurgle/notez) | Local-first notes and todos, with a CLI/TUI and git sync. Includes the **todoz** board. | Public |
-| [**pinz**](https://github.com/Gaurgle/pinz) | A pannable, zoomable board of sticky notes in the terminal. **Beta.** | Public |
-| [**repoz**](https://github.com/Gaurgle/repoz) | A quick overview of repositories with incoming, outgoing or uncommitted changes. | Public |
-| **fleetz** | A live multi-repo dashboard for branches, worktrees, pull requests and CI status. **Closed Beta** | Private |
-| **syncz** | A tool for detecting and explaining configuration changes across machines. **Design stage.** | Private |
-| [**codez**](https://github.com/Gaurgle/codez) | Searchable reference for status and error codes, from HTTP and shell exits to Bluetooth. | Public |
-| [**httpz**](https://github.com/Gaurgle/httpz) | A small, colour-coded HTTP status reference for the terminal. | Public |
-| [**clockz**](https://github.com/Gaurgle/clockz) | Terminal clock, countdown timer and stopwatch. | Public |
-| [**noiz**](https://github.com/Gaurgle/noiz) | Focus noise generator with binaural presets and a rain overlay. | Public |
-| **zalary** | Swedish salary calculator for comparing employment and invoicing through a company. | Private |
-| [**spaze**](https://github.com/Gaurgle/spaze) | Terminal-first team collaboration, with self-hosting as the goal. **Pre-alpha.** | Public |
-| **epoz** | A desktop dashboard bringing notes, todos and GitHub activity together. **Early development.** | Private |
+### Web
 
----
+- 🌌 **[portfolio-site](https://github.com/Gaurgle/portfolio-site)** - My portfolio: a WebGL2 sky over Astro, with a containerised Spring Boot + PostgreSQL API alongside
 
-### Contact
+## What I'm Doing
 
-[![Email](https://img.shields.io/badge/Email-LarsNilsAndreas@pm.me-333?logo=protonmail&logoColor=8B89CC)](mailto:LarsNilsAndreas@pm.me)
+- **Building with agents** - Agents write much of the code. I write the spec, the acceptance tests and the approval gates
+- **Tests as the contract** - TDD and ATDD, coverage that only ratchets up, a red build never ships
+- **Scratching my own itches** - Every z-tool started as friction in my own day
+- **Going deeper on LE Audio** - Auracast, LC3 and the nRF5340 Audio DK
+
+Graduated from **Nackademin's Java Developer programme** in June 2026.
+
+## Connect
+
+[![Email](https://img.shields.io/badge/-LarsNilsAndreas@pm.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:LarsNilsAndreas@pm.me)
+[![Portfolio](https://img.shields.io/badge/-andreasroos.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://andreasroos.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurgle)
+
+<details>
+<summary>Earlier work</summary>
+
+- 🛒 **[web-shop-aaa](https://github.com/Gaurgle/web-shop-aaa)** - Spring Boot + Spring Security web shop, front to back
+- ⛵ **[YachtStrike](https://github.com/Gaurgle/YachtStrikeVGAndreasRoos)** - Design patterns course project
+- 🧩 **[15-game](https://github.com/Gaurgle/15-game)** - The classic sliding puzzle in Java
+- 🗒️ **[notez-cli](https://github.com/Gaurgle/notez-cli)** - The first notez, now archived
+
+</details>
